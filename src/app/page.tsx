@@ -1,7 +1,5 @@
 import { Pricing } from "@/components/pricing";
-import styles from "./page.module.css";
-import { Button } from "@/components/ui/button";
-import { Container, HStack, Stack } from "@chakra-ui/react";
+import { Stack } from "@chakra-ui/react";
 import { Reviews } from "@/components/reviews";
 import { Features } from "@/components/features";
 import { Footer } from "@/components/footer";

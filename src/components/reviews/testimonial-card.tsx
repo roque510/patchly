@@ -32,7 +32,7 @@ export const TestimonialCard = (props: TestimonialCardProps) => {
         </Box>
       </Blockquote.Caption>
       <Blockquote.Content mt="4" flex="1">
-        "{data.quote}"
+        &quot;{data.quote}&quot;
       </Blockquote.Content>
     </Blockquote.Root>
   );

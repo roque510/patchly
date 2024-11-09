@@ -1,4 +1,4 @@
-import { Button, Container, SimpleGrid, Stack } from "@chakra-ui/react";
+import { Container, SimpleGrid, Stack } from "@chakra-ui/react";
 import { SectionHeader } from "./section-header";
 import { data } from "./data";
 import { TestimonialCard } from "./testimonial-card";
